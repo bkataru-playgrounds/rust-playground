@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Vesper",
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "rust-analyzer.linkedProjects": [
+        "rust-powered-polymorphism-with-traits/oop_rust/Cargo.toml"
+    ]
+}
